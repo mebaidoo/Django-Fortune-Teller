@@ -1,0 +1,2 @@
+# Django Fortune Teller
+ 
